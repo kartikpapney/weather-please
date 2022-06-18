@@ -1,5 +1,5 @@
 # weather-please
-<a href="https://weather-please.web/app">OpenWeatherMap API</a>
+<a href="https://weather-please.web/app">weather-please</a>
 <summary><h2 style="display: inline-block">Table Of Contents</h2></summary>
 <ol>
   <li>
@@ -11,7 +11,7 @@
 </ol>
 
 ## About The Project
-A simple & responsive weather web application built using HTML, CSS and Javascript, XML. It uses <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch Temperature, Weather, Humidity & Wind Speed details. It uses <a href="https://opencagedata.com/api">OpenCageData Geocoder API</a> to fetch exact location coordinates of the user. Built based on the 2021 UI trend 'Glassmorphism' <a href="https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9">(Read More...)</a>. Hosted using <a href="https://www.netlify.com">Netlify</a>.
+A simple & responsive weather web application built using HTML, CSS and Javascript, XML. It uses <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch Temperature, Weather, Humidity & Wind Speed details. It uses <a href="https://opencagedata.com/api">OpenCageData Geocoder API</a> to fetch exact location coordinates of the user. Hosted using <a href="https://firebase.google.com/">Firebase</a>.
 
 ### Built With
 
