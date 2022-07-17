@@ -1,5 +1,5 @@
 # weather-please
-<a href="https://weather-please.web/app">weather-please</a>
+<a href="https://weather-please.web.app">weather-please</a>
 <summary><h2 style="display: inline-block">Table Of Contents</h2></summary>
 <ol>
   <li>
