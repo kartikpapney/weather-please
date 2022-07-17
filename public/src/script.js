@@ -24,8 +24,9 @@ var opencagedataapi;
 let weather = {
   fetchWeather: function (city) {
     fetch(
-      "https://api.openweathermap.org/data/2.5/weather?q=" +
+      "https://api.openweathermap.org/data/2.5/onecall?q=" +
         city +
+        "&hourly,daily"+
         "&units=metric&appid=" +
         openweathermapapi
     )
@@ -40,6 +41,7 @@ let weather = {
   },
 
   displayWeather: function (data) {
+    console.log(data);
     const { name } = data;
     const { icon, description } = data.weather[0];
     const { temp, humidity } = data.main;
