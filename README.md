@@ -14,7 +14,7 @@
 A simple & responsive weather web application built using HTML, CSS and Javascript, XML, AJAX, XML, JSON. Uses <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch weather details and <a href="https://opencagedata.com/api">OpenCageData Geocoder API</a> to fetch exact location coordinates of the user. The application is hosted <a href="https://firebase.google.com/">@Firebase</a>.
 
 ## Video
-<video src='./public/video/CSB19047, ASSIGNMENT III' width=180/>
+<a href="https://github.com/kartikpapney/weather-please/blob/master/public/video/CSB19047%2C%20ASSIGNMENT%20III.mp4">Link</a>
 
 ### Technologies
 
